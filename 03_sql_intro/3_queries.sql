@@ -1,4 +1,4 @@
--- meta data commands to see whats on the tables, im the SYSTEM admin but
+--meta data commands to see whats on the tables, im the SYSTEM admin but
 --in production you might sometimes run into tables without an example
 --of the data you are working with
 
